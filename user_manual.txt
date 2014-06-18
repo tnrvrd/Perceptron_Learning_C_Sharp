@@ -1,0 +1,17 @@
+
+
+This program is developed for perceptron learning.
+
+Note : You should determine decimal points (.) or (,) according to your device.
+
+Input file format must be text file.
+
+Input file data format must be like :
+****
+Input1(tab)Input2(tab)Input3(tab)........(tab)Output(newline)
+***
+
+There are 2 sample input file in root directory
+
+For more information:
+muhammedtanriverdi@gmail.com
